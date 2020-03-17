@@ -1,0 +1,10 @@
+1)razor pages
+->create a table in sql 
+->creating a project and examining the razor page.
+->in model,create class and add some fields into it say id,name same as the table in sql.
+->in model, add scaffolding,add a razor page (crud).
+->tools, console, enter add-migration initialcreate (initial create is the anme of the migration),
+thr update-database
+->make sure to establish connection with server name , database etc.
+->run the program
+->create , delete and modify can be done and will be reflected back in sql database.
